@@ -7,4 +7,8 @@ This app is buggy as hell. i don't have the time to improve it, so it might work
 
 If i have the time, i will patch it and add a few improvement i have in mind.
 
+# Download
+
+Just download the .exe
+
 Good luck ! (you'll need it)
